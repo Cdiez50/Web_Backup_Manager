@@ -1,7 +1,19 @@
 #!/bin/bash
+#===============================================================================
 #
-#Dev : Corentin
-#Date : Mai 2017
+#          FILE: backup.sh
+#
+#         USAGE: ./backup.sh
+#
+#   DESCRIPTION: Dump Databases + Tar gz vhosts + rsync
+#       OPTIONS: ---
+#  REQUIREMENTS: ---
+#          BUGS: ---
+#         NOTES: ---
+#        AUTHOR: Corentin (DevOps Engineer & Programmer)
+#       CREATED: 12/06/2017 22:06:54
+#      REVISION:  ---
+#===============================================================================
 
 # Script to place :
 # /var/www/_backups/
